@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <string.h>
 
 int deplacement;
 
@@ -17,9 +18,6 @@ int deplacement;
 
 int main(){
 	
-<<<<<<< Updated upstream
-	printf("beginning");
-=======
 	char choix[4];
 	char choix1[4] = "oui";
 	char choix2[4] = "non";
@@ -81,11 +79,11 @@ int main(){
 		}
 	
 	/*printf("Bonjour aventurier !\n");
->>>>>>> Stashed changes
 	
+	char destination[100];
+	char destination1[100] = "Velika";
+	char destination2[100] = "Hautegarde";
 	
-<<<<<<< Updated upstream
-=======
 	
 	printf("\n Choisissez votre destination : \n");
 	
@@ -114,5 +112,4 @@ int main(){
 		}
 	}*/
 		
->>>>>>> Stashed changes
 }
