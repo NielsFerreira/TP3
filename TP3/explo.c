@@ -8,7 +8,7 @@ int main(){
 	
 	int destination;
 	
-	printf("\n Tapez '1' pour aller a Velika ou tapez '2' pour aller a Hautegarde \n");
+	printf("\n Tapez '1' pour aller a Velika ou tapez '2' pour aller a Hautegarde. \n");
 	
 	scanf("%d",&destination);
 	
